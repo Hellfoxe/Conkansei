@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <title>Conkansei</title>
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/normalize.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,900,700italic,700|Oswald:400,300,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+  <header class="main_header">
+    <div class="head_container clearfix">
+      <section class="soc_icons">
+        <ul>
+          <li>
+            <a href="#">
+              <img src="jpg/icons/fb.jpg" width="32" height="32" alt="fb">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="jpg/icons/tw.jpg" width="32" height="32" alt="tw">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="jpg/icons/inst.jpg" width="32" height="32" alt="inst">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="jpg/icons/pin.jpg" width="32" height="32" alt="pin">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="jpg/icons/google.jpg" widtgh="32" height="32" alt="google">
+            </a>
+          </li>
+        </ul>
+      </section>
+      <div class="logo">
+        <img src="jpg/logo.jpg" alt="">
+      </div>
+      <section class="block_enter">
+        <ul>
+          <li class="registro">ACCESO/REGISTO</li>
+          <li class="basket">MI CESTA</li>
+          <li class="basket">
+            <a href="#">
+              <img src="jpg/basket.jpg" width="40" height="40" alt="basket">
+            </a>
+          </li>
+        </ul>
+      </section>
+
+    </div>
+
+  </header>
+
+  <div class="main_menu">
+    <div class="main_menu_container clearfix">
+      <nav>
+        <ul>
+          <li>DECORACIÓN</li>
+          <li>COCINA</li>
+          <li>KIDS</li>
+          <li class="square">
+          </li>
+          <li>BLOG</li>
+          <li>FILOSOFIA</li>
+          <li>SUSCRIBETE</li>
+        </ul>
+      </nav>
+    </div>
+    <div class="info_block clearfix">
+      <section class="info_block_content clearfix">
+        <ul>
+          <li>ENVÍO GRATUITO A PARTIR DE 40 €</li>
+          <li class="none_line">ENTREGA EN 24-72 HORAS</li>
+</ul>
+
+
+      </section>
+      </div>
+    </div>
+
+  </div>
+
+
+
+</body>
+
+</html>
